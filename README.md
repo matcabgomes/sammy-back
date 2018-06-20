@@ -1,2 +1,2 @@
 # sammy-back
-O backend de um chatbot com o diagramaFlow 
+O backend de uma chatbot muito divertida com o diagramaFlow ;)
